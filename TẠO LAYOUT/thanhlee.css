@@ -1,0 +1,84 @@
+body{
+    font-family: cursive,Tahoma;
+    font-size: 12px;
+}
+
+#main {
+    width: 1000px;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#head{
+    height: 200px;
+    color: #ffffff;
+   background-color: #F5F5F5;
+    border: 1px solid #cdcdcd;
+    margin-bottom: 5px;
+    background-image: url("https://vemaybay-vn.com/wp-content/uploads/2017/04/th%C3%A1p-Tsutenkaku-%C4%91%E1%BB%8Ba-%C4%91i%E1%BB%83m-ng%E1%BA%AFm-c%E1%BA%A3nh-to%C3%A0n-th%C3%A0nh-ph%E1%BB%91-osaka-l%C3%BD-t%C6%B0%E1%BB%9Fng.jpg");
+}
+#head-link{
+    height: 30px;
+    line-height: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid #cdcdcd;
+    background-color: #ce8fac;
+    margin-bottom: 5px;
+    clear: both;
+    padding-bottom:20px;
+}
+#left{
+    width: 300px;
+    min-height: 562px;
+    border: 1px solid #cdcdcd;
+    float: left;
+    background-color:antiquewhite;
+    margin-bottom: 5px;
+}
+#content{
+    width: 350px;
+    background-color:antiquewhite;
+    min-height: 562px;
+    border: 1px solid #cdcdcd;
+    float: left;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#right{
+    width: 332px;
+    background-color:antiquewhite;
+    min-height:562px;
+    border: 1px solid #cdcdcd;
+    float: right;
+    margin-bottom: 5px;
+}
+#footer{
+    height: 50px;
+    clear: both;
+    border: 1px solid #cdcdcd;
+    background-color: #ae46ef;
+    color: #efefef;
+}
+h1  {
+    text-align: center;
+    color: #e71551;
+}
+li {
+    display: inline;
+    margin: 0px 5px;
+}
+a{
+    text-decoration: none;
+    text-transform: uppercase;
+}
+a:hover,
+a.on{
+    color: #efefef;
+    background-color: #f;
+}
+p{padding-left:5px}
+
+
